@@ -1,4 +1,4 @@
-# CSE499A.11_Spring2021_DMH
+# CSE499_DMH
 
 Project Name : Grocery E-commerce Shop
 
