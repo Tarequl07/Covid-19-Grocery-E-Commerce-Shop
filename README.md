@@ -1,1 +1,4 @@
-# Covid-19-Grocery-E-Commerce-Shop
+# CSE499A.11_Spring2021_DMH
+
+Project Name : Grocery E-commerce Shop
+
