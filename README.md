@@ -1,4 +1,4 @@
-# CSE499_DMH
+# CSE499
 
 Project Name : Grocery E-commerce Shop
 
